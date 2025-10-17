@@ -72,8 +72,7 @@ Translated analytical findings into actionable strategies for improving service 
 
 Clone this repository:
 
-git clone https://github.com/yourusername/foodhub-order-analysis.git
-
+git clone https://github.com/rishovm/FoodHub-Data-Analysis.git
 
 Navigate to the project directory:
 
